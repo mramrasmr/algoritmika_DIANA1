@@ -117,7 +117,7 @@ footer a {
     margin-right: 1opx;
 }
 
-footer p {https://learn.algoritmika.org/uploads/2021/02/mobile-phone-1419275_1920_0_1613586010.jpg$0
+footer p {
     font-size: 24px;
     padding-left: 10px;
 }
@@ -174,11 +174,8 @@ h1::after {
 .scare {
     position: absolute;
     top: 300px;
-    left: 420px;
+    left: 600px;
 }
-
-
-
 
     
 
